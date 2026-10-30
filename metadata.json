@@ -1,0 +1,6 @@
+{
+  "name": "Championship Heritage — Grand Slam Tennis Code & Court Companion",
+  "description": "An authoritative, interactive companion to Grand Slam lawn tennis rules, court geometry, surface physics, code violation procedures, and historical Centre Court traditions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
